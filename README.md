@@ -17,3 +17,9 @@ $ sudo apt-get install icacast2
 ```
 $ sudo apt-get install libshout3 libshout3-dev
 ```
+## Make the demo project
+
+Download or clone project
+```
+$ git clone 
+```
