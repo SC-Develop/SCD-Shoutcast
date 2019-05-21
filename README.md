@@ -26,7 +26,7 @@ $ git clone https://github.com/SC-Develop/SCD-Shoutcast.git
 Run qt creator, load project and build. Binary demo file will be found into bin folder.
 ## Run demo
 Enter into bin folder and edit config.cfg file. You can set the icecast connection params. 
-<br>If you have a new installaion of icacast you should not need to modify config.cfg
+<br>If you have a new installaion of icecast you should not need to modify config.cfg
 ```
 [Icecast]
 ice_address=localhost
