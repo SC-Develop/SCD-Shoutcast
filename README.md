@@ -1,2 +1,2 @@
-# SCDShoucast
+# SCDShoutcast
 Simple File Streaming Class for Icecast Server (QT C++ libshout wrapper)
