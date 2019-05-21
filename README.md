@@ -40,6 +40,10 @@ ice_username=source
 $ cd scd-shoutcast/bin
 $ ./shoutcast-test -m:stream -f:test.ogg
 ```
+To start as daemon use the option -d
+```
+$ ./shoutcast-test -m:stream -d -f:test.ogg
+```
 On address bar of your browser type:
 ```
 http://localhost:8000/
