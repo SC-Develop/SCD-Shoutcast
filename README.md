@@ -21,7 +21,7 @@ $ sudo apt-get install libshout3 libshout3-dev
 
 Download or clone project into your project folder
 ```
-$ git clone https://github.com/SC-Develop/SCD-Shoutcast.git
+$ git clone https://github.com/SC-Develop/SCD-Shoutcast
 ```
 Run qt creator, load project and build. Binary demo file will be found into bin folder.
 ## Run demo
