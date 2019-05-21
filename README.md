@@ -34,7 +34,7 @@ ice_password=hackme
 ice_port=8000
 ice_username=source
 ```
-Run the demo
+### Start audio streaming
 ```
 $ cd scd-shoutcast/bin
 $ ./shoutcast-test -m:stream -f:test.ogg
@@ -43,10 +43,9 @@ On address bar of your browser type:
 ```
 http://localhost:8000/
 ```
-
 You should see the mount point 'stream'
 
-You can hear the audio stream through vlc typing the addres:
+You can also hear the audio stream through vlc typing the addres:
 ```
 http://localhost:8000/stream
 ```
