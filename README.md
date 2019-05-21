@@ -45,7 +45,7 @@ http://localhost:8000/
 ```
 You should see the mount point 'stream'
 
-You can also hear the audio stream through vlc typing the addres:
+You can also hear the audio stream through 'VLC' at the addres:
 ```
 http://localhost:8000/stream
 ```
