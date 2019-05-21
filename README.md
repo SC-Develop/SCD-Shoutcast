@@ -2,7 +2,8 @@
 Simple File Streaming Class for Icecast Server (QT C++ linux libshout wrapper)
 
 # Description
-This is a simple libshout wrapper class. By Embedding this class into your own application you can easly stream audio files, ogg, mp3 and webm, to a streaming media server Icecast.
+This is a simple libshout wrapper class. By Embedding this class into your own application you can easly stream audio files, ogg, mp3 and webm, to a streaming media server Icecast. <br>
+This version has been tested with Linux 16.04 LTS and Qt 5.9.2
 
 ## Requirements
 
